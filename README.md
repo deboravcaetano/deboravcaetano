@@ -5,4 +5,4 @@
 <p align="center"><strong>I'm a first-year software engineering student at the University of Minho and this is my GitHub!</strong></p>
 
 ![GIF animado](https://media1.tenor.com/m/3DsoUiVTQQcAAAAd/studying-spider-man.gif)
-<p align="center">...been working on some projects.</p>
+
