@@ -16,7 +16,7 @@
     </details>
     <details>
       <summary>2nd Year</summary>
-      <p>Coming soon!</p>
+      <p>Coming soon >_< </p>
     </details>
   </details>
 
