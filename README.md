@@ -21,7 +21,7 @@
   </details>
 
   <details>
-    <summary><b>Personal Projects</b></summary>
+    <summary><b> :spider: Personal Projects</b></summary>
     <a href="https://github.com/deboravcaetano/Immutable-Towers" target="_blank">Immutable-Towers</a>
   </details>
 
