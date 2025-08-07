@@ -9,7 +9,7 @@
   <p align ="center">I'm a second-year Software Engineering student and this is my GitHub!</p>
 
   <details>
-    <summary><b>LEI Projects</b></summary>
+    <summary><b> :spider: LEI Projects</b></summary>
     <details>
       <summary>1st Year</summary>
       <a href="https://github.com/deboravcaetano/LI2" target="_blank">LI2</a>
