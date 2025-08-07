@@ -6,50 +6,23 @@
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V1aXdqNGVnYnp0dmN2aGFpbmVuYWpwamtncGZjeWw3NW52MjBvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9tZc9Mzo9K0yOYx38U/giphy.gif" width="300" alt="Hello World GIF"/>
   </p>
 
-  <h5>I'm a second-year Software Engineering student and this is my GitHub!</h5>
+  <p align="center">I'm a second-year Software Engineering student and this is my GitHub!</p>
 
   <details>
     <summary><b> :spider: LEI Projects</b></summary>
     <details>
-  <summary>1st Year</summary>
-  <table>
-    <thead>
-      <tr>
-        <th>Project</th>
-        <th>About</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="https://github.com/deboravcaetano/LI2" target="_blank">LI2</a></td>
-        <td>Hitori Game</td>
-      </tr>
-    </tbody>
-  </table>
-
-</details>
+      <summary>1st Year</summary>
+      <a href="https://github.com/deboravcaetano/LI2" target="_blank">LI2</a>
+    </details>
     <details>
       <summary>2nd Year</summary>
-      <p>Coming soon >_< </p>
+      <p>Coming soon!</p>
     </details>
   </details>
 
   <details>
     <summary><b> :spider: Personal Projects</b></summary>
-    <table>
-    <thead>
-      <tr>
-        <th>Project</th>
-        <th>About</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="https://github.com/deboravcaetano/Immutable-Towers" target="_blank">Immutable Towers</a></td>
-        <td>Tower Defense Game-Winx Club version</td>
-      </tr>
-    </tbody>
-  </table>
+    <a href="https://github.com/deboravcaetano/Immutable-Towers" target="_blank">Immutable-Towers</a>
   </details>
 
   <details>
