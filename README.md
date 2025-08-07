@@ -9,7 +9,7 @@
   <h5>I'm a second-year Software Engineering student and this is my GitHub!</h5>
 
   <details>
-    <summary><b>LEI Projects</b></summary>
+    <summary><b> :spider: LEI Projects</b></summary>
     <details>
   <summary>1st Year</summary>
   <table>
@@ -35,7 +35,7 @@
   </details>
 
   <details>
-    <summary><b>Personal Projects</b></summary>
+    <summary><b> :spider: Personal Projects</b></summary>
     <table>
     <thead>
       <tr>
