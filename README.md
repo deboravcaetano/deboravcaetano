@@ -6,7 +6,7 @@
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V1aXdqNGVnYnp0dmN2aGFpbmVuYWpwamtncGZjeWw3NW52MjBvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9tZc9Mzo9K0yOYx38U/giphy.gif" width="300" alt="Hello World GIF"/>
   </p>
 
-  <h5>I'm a second-year Software Engineering student and this is my GitHub!</h5>
+  <p align ="center">I'm a second-year Software Engineering student and this is my GitHub!</p>
 
   <details>
     <summary><b>LEI Projects</b></summary>
