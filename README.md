@@ -5,13 +5,13 @@
     </p>
     <p align="center">I'm a second-year <b>Software Engineering</b> student and this is where I hide my nerd stuff..</p>
     <details>
-        <summary><b> Projects</b></summary>
+        <summary>Projects</summary>
         <a href="https://github.com/deboravcaetano/LI2" target="_blank">Hitori-Game</a>
         <br>
         <a href="https://github.com/deboravcaetano/Immutable-Towers" target="_blank">Immutable-Towers</a>
     </details>
     <details>
-        <summary><b>What I've been up to >_<</b></summary>
+        <summary>What I've been up to >_<</summary>
             <br>
             <p> <i>Survived</i> the <b>Haskell</b> quest at university.<br><i>Currently</i> grinding through <b>C</b>.<br><i>Self-learning</i> <b>HTML</b> and <b>CSS</b>, one tag at a time!</p
 </details>
