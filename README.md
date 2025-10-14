@@ -14,11 +14,7 @@
     <details>
         <summary><b>What I've been up to >_<</b></summary>
             <br>
-            <ul>
-                <li> Survived the Haskell quest at university.</li>
-                <li> Currently grinding through C.</li>
-                <li> Self-learning HTML and CSS, one tag at a time!</li>
-            </ul>
+            <p> <b>Survived</b> the <i>Haskell</i> quest at university.<br><b>Currently</b> grinding through <i>C</i><br><b>Self-learning</b> <i>HTML</i> and <i>CSS</i>, one tag at a time!</p
 </details>
 
 
