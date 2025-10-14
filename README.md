@@ -11,7 +11,6 @@
         <br>
         <a href="https://github.com/deboravcaetano/Immutable-Towers" target="_blank">Immutable-Towers</a>
     </details>
-    <br>
     <details>
         <summary><b>What I've been up to >_<</b></summary>
     <ul>
