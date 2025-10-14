@@ -11,7 +11,7 @@
         <a href="https://github.com/deboravcaetano/Immutable-Towers" target="_blank">Immutable-Towers</a>
     </details>
     <details>
-        <summary>What I've been up to >_<</summary>
+        <summary><b>What I've been up to >_<</b></summary>
             <br>
             <p> <i>Survived</i> the <b>Haskell</b> quest at university.<br><i>Currently</i> grinding through <b>C</b>.<br><i>Self-learning</i> <b>HTML</b> and <b>CSS</b>, one tag at a time!</p
 </details>
