@@ -13,11 +13,12 @@
     </details>
     <details>
         <summary><b>What I've been up to >_<</b></summary>
-        <ul>
-            <li> Survived the Haskell quest at university.</li>
-            <li> Currently grinding through C.</li>
-            <li> Self-learning HTML and CSS, one tag at a time!</li>
-        </ul>
+            <br>
+            <ul>
+                <li> Survived the Haskell quest at university.</li>
+                <li> Currently grinding through C.</li>
+                <li> Self-learning HTML and CSS, one tag at a time!</li>
+            </ul>
 </details>
 
 
