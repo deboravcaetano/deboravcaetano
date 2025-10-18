@@ -14,7 +14,7 @@
      <br>
      <ul>
          <li>Survived the <b>Haskell</b> quest at University.</li>
-         <li>Currently grinding through <b>C</b>.</li>
+         <li>Currently grinding through <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://www.c-language.org/about">.</li>
          <li>Self-learning <b>HTML</b> and <b>CSS</b>, one tag at a time!</li>
      </ul>
  </details>
