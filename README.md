@@ -21,4 +21,6 @@
       </ul>
 </details>
 
+- [`star.html`](https://github.com/codedex-io/html-101/blob/main/1-elements/01_star.html)
+
 
