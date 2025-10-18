@@ -8,6 +8,7 @@
 <details>
  <summary><u>Projects</u></summary>
   <a href="https://github.com/deboravcaetano/LI2" target="_blank">Hitori-Game</a>
+  [`Hitori-Game`](https://github.com/deboravcaetano/LI2)
   <br>
   <a href="https://github.com/deboravcaetano/Immutable-Towers" target="_blank">Immutable-Towers</a>
 </details>
@@ -21,6 +22,6 @@
       </ul>
 </details>
 
-- [`star.html`](https://github.com/codedex-io/html-101/blob/main/1-elements/01_star.html)
+ 
 
 
