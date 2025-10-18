@@ -6,13 +6,13 @@
  <p>Hi, I'm Débora ★⋆˚࿔.ᐟ , I'm a second-year <b>Software Engineering</b> student and this is where I hide my nerd stuff..</p>
 </div>
 <details>
- <summary>Projects</summary>
+ <summary><u>Projects</u></summary>
   <a href="https://github.com/deboravcaetano/LI2" target="_blank">Hitori-Game</a>
   <br>
   <a href="https://github.com/deboravcaetano/Immutable-Towers" target="_blank">Immutable-Towers</a>
 </details>
 <details>
- <summary>What I've been up to </b></summary>
+ <summary><u>What I've been up to</u></summary>
     <br>
       <ul>
           <li>Survived the <b>Haskell</b> quest at University.</li>
